@@ -1,6 +1,7 @@
-### Sean Bienvenidos Compañeros ! 😎
+### BIENVENIDOS COLEGASSS! 😎
 
-Es un placer recibirlos en este perfil el cual pertenece a un joven principiante en programacion, mi nombre es Manuel López.😀🧠
+Mi nombre es Manuel López.😀🧠
+Es de gran honor para mi recibir su viista en mi perfil, me presento, soy un joven estudiante de la carrera de Ingenieria en Sistemas Computadcionales, actualmente curso el septimo semestre y me encanta mucho siempre seguir preparandome y enfoncandome en mi carrera. 
 
 | **Aptitudes** |
 
@@ -16,6 +17,8 @@ Es un placer recibirlos en este perfil el cual pertenece a un joven principiante
   - Programación Orientada a Objetos.
   - Estructura de Datos. 
   - Tópicos Avanzadas de Programación. 
+  - Programacion Logica.
+  - Lenguajez de Interfaz.
 
 
 | **Objetivos Personales** |
@@ -33,14 +36,14 @@ Es un placer recibirlos en este perfil el cual pertenece a un joven principiante
   | **Por ultimo quiero añadir mi carga de materias del semestre actual** |
   
   
-  - Sexto Semestre:
+  - Septimo Semestre:
 
 |             Materia             	|    Lunes    	|    Martes   	|  Miercoles  	|    Jueves   	|   Viernes   	|
 |:-------------------------------:	|:-----------:	|:-----------:	|:-----------:	|:-----------:	|:-----------:	|
-|     Admon. de  Base de Datos    	| 18:00 19:00 	| 18:00 19:00 	| 18:00 19:00 	| 18:00 19:00 	| 18:00 19:00 	|
-|      Lenguajes de  Interfaz     	| 14:00 15:00 	| 14:00 15:00 	| 14:00 15:00 	| 14:00 15:00 	|             	|
-| Programación Lógica y Funcional 	| 19:00 20:00 	| 19:00 20:00 	| 19:00 20:00 	| 19:00 20:00 	|             	|
-|       Arq. de Computadoras      	| 16:00 17:00 	| 16:00 17:00 	| 16:00 17:00 	| 16:00 17:00 	| 16:00 17:00 	|
-|         Ing. de Software        	| 13:00 14:00 	| 13:00 14:00 	| 13:00 14:00 	| 13:00 14:00 	| 13:00 14:00 	|
-
+|            Simulacion            	| 13:00 14:00 	|              	| 12:00 14:00 	|              	| 12:00 14:00 	|
+|  Gestion de Proyectos de Software | 14:00 15:00 	| 14:00 15:00 	| 14:00 15:00 	| 14:00 15:00 	| 14:00 16:00  	|
+|       Sistemas Programables       | 16:00 17:00 	| 16:00 17:00 	| 16:00 17:00 	| 16:00 17:00 	|             	|
+| Fundamentos de Telecomunicaciones | 17:00 18:00 	| 17:00 18:00 	| 17:00 18:00 	| 17:00 18:00 	|             	|
+|   Analisis Avanzado de Software   | 18:00 19:00 	| 18:00 19:00 	| 18:00 19:00 	| 18:00 19:00 	| 18:00 19:00 	|
+|   Taller de Investigacion II      | 19:00 20:00 	| 19:00 20:00 	| 19:00 20:00 	| 19:00 20:00 	|             	|
 
